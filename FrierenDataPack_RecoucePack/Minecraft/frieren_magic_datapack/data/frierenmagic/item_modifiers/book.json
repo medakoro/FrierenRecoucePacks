@@ -1,0 +1,18 @@
+[
+    {
+        "function": "minecraft:set_lore",
+        "entity": "this",
+        "lore": [
+            {
+                "text": "なにか魔力がこもっていそうな気がする",
+                "color": "dark_gray",
+                "italic": false
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_name",
+        "entity": "this",
+        "name": "??????????"
+    }
+]
